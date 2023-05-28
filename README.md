@@ -31,7 +31,7 @@ TR🇹🇷:
 Bu jeneratör kendi Türk Kimlik Kartınızı yapabilmenizi sağlar
 
 ‼️ Bu program sadece eğlence ve eğitim amaçlıdır, yasa dışı faaliyetlerde kullanımında hiç bir
-sorumluluk almıyorum!- ‼️
+sorumluluk almıyorum! ‼️
 
 Kullanım
 --------
