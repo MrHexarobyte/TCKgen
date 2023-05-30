@@ -40,7 +40,7 @@ layout = [
 ]
 window = sg.Window("TCK GEN", layout)
 
-sisim = 'isimsiz nigga'
+
 while True:
 
     event, values = window.read()
