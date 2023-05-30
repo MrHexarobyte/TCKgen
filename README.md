@@ -1,3 +1,12 @@
+### Eğer bir yazılım geliştirici‍💻 değilseniz buradan indirmenizi önermiyorum. Eğer sadece öylesine kullanacaksanız buradan indirebilirsiniz:
+https://s6.dosya.tc/server14/mqz6fq/tckimlikgen.zip.html
+- (Bu zipde .exe uzantılı şekli var, ayrıca Windows Defender açmanızı "önermeyebilir" isterseniz virustotaldan falan geçirin temiz dosya.)
+
+### If you are not a developer‍💻, i recommend you to download the file from here:
+https://s6.dosya.tc/server14/mqz6fq/tckimlikgen.zip.html
+- (This .zip file has an EXE that you can instantly open instead of having to install requirements. Also Windows Defender might get in your way,
+ my application does not have any viruses, you can always check. )
+
 EN🇬🇧:
 # TC Kimlik Generator / Turkish Identification Card
 This generator makes you able to make your own Turkish Identification Card
