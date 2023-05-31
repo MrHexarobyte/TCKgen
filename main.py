@@ -37,10 +37,10 @@ layout = [
     [sg.Button(button_text='Oluştur',key='-OK-')],
     [sg.Text('', expand_x=True, key='Status')],
     [sg.Image(size=size,data=rltemp, background_color='green', key = "Image")],
+    [sg.Button(button_text='Kaydet',key='-SAVE-')]
 ]
 window = sg.Window("TCK GEN", layout)
-
-
+dw = None
 while True:
 
     event, values = window.read()
@@ -94,7 +94,9 @@ while True:
         I1.text((161, 210), srino, font=arial, fill =(0, 0, 0)) #SERI NO
         I1.text((161, 250), sgt, font=arial, fill =(0, 0, 0)) #SON GECERLILIK TARIHI
 
-
+        dw = newimg
         window['Image'].update(data=image_to_data(newimg), size=size,)
+    elif event == '-SAVE-':
+        dw.save('Sonuç.png')
 
 window.close()
