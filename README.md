@@ -31,7 +31,7 @@ because the UI is Turkish because of the Identification Card being Turkish.
 
 Screenshot
 --------
-![alt text](https://i.imgur.com/CQtcGzq.png)
+![Screenshot](https://i.imgur.com/CQtcGzq.png)
 
 
 
@@ -58,4 +58,8 @@ python3 main.py
 
 Ekran Görüntüsü
 --------
-![alt text](https://i.imgur.com/CQtcGzq.png)
+![Ekran Görüntüsü](https://i.imgur.com/CQtcGzq.png)
+
+
+TODO / YAPILACAKLAR
+- [x] Kaydetme Butonu Getir / Add Save Function And Button
